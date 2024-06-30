@@ -1,2 +1,2 @@
 # Test
-test repo
+test repo for gti command demonstration
